@@ -60,7 +60,7 @@ Below are key charts generated from the analysis:
 
 The following dashboard shows the main churn metrics and demographic breakdown.
 
-![Dashboard Overview](D:\curent work2024\Trening\مشروعات\Project Customer Churn\Dashboard1.PNG)
+![Dashboard Overview](https://github.com/mohamedtohamy656-cmyk/Churn-customer/commit/0adcf8c372c76a342b86cbba6c5bb7b9e154df09)
 
 
 ## ⚙️ Technologies Used
