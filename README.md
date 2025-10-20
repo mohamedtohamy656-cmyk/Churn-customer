@@ -9,7 +9,7 @@ The dashboard provides deep insights into **customer behavior**, **reasons for c
 
 ## 📸 Dashboard Preview
 ![Customer Churn Analysis](Dashboard1.PNG)
-![Customer Churn Analysis](Dashboard1.PNG)
+![Customer Churn Analysis](Dashboard2.PNG)
 ---
 
 ## 🔍 Key Insights
