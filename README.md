@@ -56,7 +56,12 @@ Below are key charts generated from the analysis:
 ### 👥 Churn Rate by Age Group
 ![Churn by Age](churn_by_age.png)
 
----
+---## 📊 Dashboard Overview
+
+The following dashboard shows the main churn metrics and demographic breakdown.
+
+![Dashboard Overview](https://github.com/mohamedtohamy656-cmyk/Customer-Churn-Analysis/blob/main/dashboard_overview.png?raw=true)
+
 
 ## ⚙️ Technologies Used
 - **Python 3.9+**
